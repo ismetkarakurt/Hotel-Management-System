@@ -1,4 +1,3 @@
 # Hotel-Management-System
 
-Technologies
--MsSql
+Tool:MsSQL
